@@ -1,0 +1,9 @@
+C:\Users\91975\AppData\Local\Temporary Projects\Age Calculator\bin\Debug\Age Calculator.exe
+C:\Users\91975\AppData\Local\Temporary Projects\Age Calculator\bin\Debug\Age Calculator.pdb
+C:\Users\91975\AppData\Local\Temporary Projects\Age Calculator\obj\x86\Debug\Age_Calculator.Form1.resources
+C:\Users\91975\AppData\Local\Temporary Projects\Age Calculator\obj\x86\Debug\Age_Calculator.Properties.Resources.resources
+C:\Users\91975\AppData\Local\Temporary Projects\Age Calculator\obj\x86\Debug\Age Calculator.csproj.GenerateResource.Cache
+C:\Users\91975\AppData\Local\Temporary Projects\Age Calculator\obj\x86\Debug\Age Calculator.exe
+C:\Users\91975\AppData\Local\Temporary Projects\Age Calculator\obj\x86\Debug\Age Calculator.pdb
+D:\Visual studio 2010\Age Calculator\Age Calculator\obj\x86\Debug\Age Calculator.exe
+D:\Visual studio 2010\Age Calculator\Age Calculator\obj\x86\Debug\Age Calculator.pdb

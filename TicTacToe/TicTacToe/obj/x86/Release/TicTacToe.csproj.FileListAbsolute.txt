@@ -1,0 +1,7 @@
+C:\Users\91975\AppData\Local\Temporary Projects\TicTacToe\obj\x86\Release\TicTacToe.Form1.resources
+C:\Users\91975\AppData\Local\Temporary Projects\TicTacToe\obj\x86\Release\TicTacToe.Properties.Resources.resources
+C:\Users\91975\AppData\Local\Temporary Projects\TicTacToe\obj\x86\Release\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\91975\AppData\Local\Temporary Projects\TicTacToe\bin\Release\TicTacToe.exe
+C:\Users\91975\AppData\Local\Temporary Projects\TicTacToe\bin\Release\TicTacToe.pdb
+C:\Users\91975\AppData\Local\Temporary Projects\TicTacToe\obj\x86\Release\TicTacToe.exe
+C:\Users\91975\AppData\Local\Temporary Projects\TicTacToe\obj\x86\Release\TicTacToe.pdb
